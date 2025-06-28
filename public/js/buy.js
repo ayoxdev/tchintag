@@ -10,8 +10,8 @@ const AVAILABLE_COLORS = [
     { name: "MATTE ROSE", code: "#FFB5E6" }
 ];
 
-const PRICE_FULL = 4;
-const PRICE_DISCOUNT = 3.5;
+const PRICE_FULL = 3.5;
+const PRICE_DISCOUNT = 3;
 const DISCOUNT_THRESHOLD = 10;
 
 const itemsContainer = document.getElementById('itemsContainer');
